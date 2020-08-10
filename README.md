@@ -10,7 +10,7 @@ Source code of the paper "Synchronous Double-channel Recurrent Network for Aspec
 ```
 
 #### Dataset:
-14-Res, 14-Lap, 15-Res: Download from https://pan.baidu.com/s/1-y30MGonHl8dSxmIvFCQUg with code "vl1k".
+14-Res, 14-Lap, 15-Res: Download from https://drive.google.com/drive/folders/1wWK6fIvfYP-54afGDRN44VWlXuUAHs-l?usp=sharing
 
 MPQA：Download from http://www.cs.pitt.edu/mpqa/
 
